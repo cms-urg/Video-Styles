@@ -6,8 +6,7 @@ This repository stores material and data generated as part of a pilot study that
 
 ## Contents
 
-- data: Stores raw experiment data with sensitive columns anonymized.
-  **NOTE: THIS HAS NOT BEEN PUBLISHED YET**
+- data: Stores experiment data, which include session durations, survey responses, and code submission grades.
 
 - questions: Contains questions used for creating the coding walkthrough videos, as well as those given to participants in the experiment.
 
